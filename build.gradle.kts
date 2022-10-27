@@ -4,8 +4,6 @@ plugins {
     id("org.web3j") version "4.9.4"
 }
 
-group = "io.github.rorione"
-version = "0.0.1"
 application {
     mainClass.set("Main.kt")
 }
